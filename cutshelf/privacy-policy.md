@@ -12,6 +12,7 @@ Your design files stay where they are on your Mac.
 Cutshelf reads only the folders you add with the folder picker. It never changes your design files.
 To show thumbnails, it keeps a copy of each file's saved preview image in its own cache on your Mac.
 Removing a folder from Cutshelf removes it from the list. The files stay on disk.
+
 A PDF catalog is saved only where you choose in the save panel.
 The folder list, the preview cache and your view settings stay on your Mac. Deleting the app removes them.
 
