@@ -1,17 +1,17 @@
-# Cutshelf Privacy Policy
+# Etchfolio Privacy Policy
 
 Last updated: 2026-10-08
 
-Cutshelf ("the app") is made by Mustafa Alp Yılmaz.
+Etchfolio ("the app") is made by Mustafa Alp Yılmaz.
 
 ## Data we collect
 The app does not collect, store on our servers, or share any personal data.
 Your design files stay where they are on your Mac.
 
 ## Your files
-Cutshelf reads only the folders you add with the folder picker. It never changes your design files.
+Etchfolio reads only the folders you add with the folder picker. It never changes your design files.
 To show thumbnails, it keeps a copy of each file's saved preview image in its own cache on your Mac.
-Removing a folder from Cutshelf removes it from the list. The files stay on disk.
+Removing a folder from Etchfolio removes it from the list. The files stay on disk.
 
 A PDF catalog is saved only where you choose in the save panel.
 The folder list, the preview cache and your view settings stay on your Mac. Deleting the app removes them.
