@@ -1,3 +1,6 @@
+---
+description: "Trailhold (\"the app\") is made by Mustafa Alp Yılmaz."
+---
 # Trailhold Privacy Policy
 
 Last updated: 2026-10-09
@@ -14,7 +17,7 @@ Purchases are processed by Apple. We do not receive your payment details. Apple'
 The app keeps these on your Mac, inside its own container:
 - Your library: folders, lists, waypoints, routes and tracks you import or create.
 - The access you gave to each Garmin unit's drive, so you pick the drive only once.
-- Your settings: distance units, coordinate format, map style, table sort and the last map area.
+- Your settings: distance units, coordinate format, map style, table sort, the last map area and whether the elevation profile is open.
 
 Deleting the app and its container removes them. Files you export or send to a Garmin unit stay where you put them.
 
