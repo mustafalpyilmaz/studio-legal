@@ -1,3 +1,6 @@
+---
+description: "Email questions and problems to mustafalpyilmaz0@gmail.com."
+---
 # Etchfolio Support
 
 Email questions and problems to mustafalpyilmaz0@gmail.com. Replies come within two business days.
@@ -18,4 +21,4 @@ Its drive is not connected, or the folder was deleted. Connect the drive, or cli
 Refunds are handled by Apple: https://reportaproblem.apple.com
 
 **Where is my data stored?**
-On your Mac. See the privacy policy: https://mustafalpyilmaz.github.io/studio-legal/cutshelf/privacy-policy.html
+On your Mac. See the privacy policy: https://mustafalpyilmaz.github.io/studio-legal/etchfolio/privacy-policy.html

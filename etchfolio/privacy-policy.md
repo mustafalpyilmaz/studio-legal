@@ -1,3 +1,6 @@
+---
+description: "Etchfolio (\"the app\") is made by Mustafa Alp Yılmaz."
+---
 # Etchfolio Privacy Policy
 
 Last updated: 2026-10-08
