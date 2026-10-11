@@ -1,11 +1,12 @@
 # Ferrydisk Privacy Policy
 
-Last updated: 2026-10-10
+Last updated: 2026-10-11
 
 Ferrydisk ("the app") is made by Mustafa Alp Yılmaz.
 
 ## Data we collect
-The app does not collect, store on our servers, or share any personal data. Your disks, passwords and copies stay on your Mac.
+The app itself collects no personal data and sends none to us. Your disks, passwords and copies stay on your Mac.
+If you buy Ferrydisk Pro, Paddle sends us your name, email address and order details. The Purchases section says how we use them.
 
 ## Purchases
 Ferrydisk Pro is sold through Paddle (paddle.com), the merchant of record. Paddle processes your payment, and we do not receive your payment details.
@@ -30,7 +31,7 @@ The helper answers only Ferrydisk. To remove it, turn it off there or delete the
 The app does not include third-party analytics, advertising or tracking.
 
 ## Children
-The app is not directed at children and does not knowingly collect data from anyone.
+The app is not directed at children, and we do not knowingly receive data about children.
 
 ## Changes
 If this policy changes, the new version will be posted at this address with a new date.
