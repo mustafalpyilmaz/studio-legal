@@ -1,3 +1,6 @@
+---
+description: "Gustbook (\"the app\") is made by Mustafa Alp Yılmaz."
+---
 # Gustbook Privacy Policy
 
 Last updated: 2026-10-10
