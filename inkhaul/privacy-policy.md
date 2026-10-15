@@ -1,3 +1,6 @@
+---
+description: "Inkhaul (\"the app\") is made by Mustafa Alp Yılmaz."
+---
 # Inkhaul Privacy Policy
 
 Last updated: 2026-10-11
