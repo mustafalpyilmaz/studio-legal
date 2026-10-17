@@ -1,7 +1,9 @@
 ---
-description: "Email questions and problems to mustafalpyilmaz0@gmail.com."
+description: "Etchfolio is made by Mustafa Alp Yılmaz."
 ---
 # Etchfolio Support
+
+Etchfolio is made by Mustafa Alp Yılmaz. It needs macOS 26 or later.
 
 Email questions and problems to mustafalpyilmaz0@gmail.com. Replies come within two business days.
 
