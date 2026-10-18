@@ -3,7 +3,7 @@ description: "Etchfolio (\"the app\") is made by Mustafa Alp Yılmaz."
 ---
 # Etchfolio Privacy Policy
 
-Last updated: 2026-10-08
+Last updated: 2026-10-18
 
 Etchfolio ("the app") is made by Mustafa Alp Yılmaz.
 
@@ -18,6 +18,7 @@ Removing a folder from Etchfolio removes it from the list. The files stay on dis
 
 A PDF catalog is saved only where you choose in the save panel.
 The folder list, the preview cache and your view settings stay on your Mac. Deleting the app removes them.
+For the App Store rating prompt, it also counts app launches and opened designs there.
 
 ## Purchases
 Purchases are processed by Apple. We do not receive your payment details. Apple's privacy policy applies to purchases: https://www.apple.com/legal/privacy/
