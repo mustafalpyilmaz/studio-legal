@@ -1,7 +1,9 @@
 ---
-description: "Need help or found a problem?"
+description: "Gustbook is made by Mustafa Alp Yılmaz."
 ---
 # Gustbook Support
+
+Gustbook is made by Mustafa Alp Yılmaz. It needs macOS 26 or later.
 
 Need help or found a problem? Email mustafalpyilmaz0@gmail.com and you'll get a reply within two business days.
 
