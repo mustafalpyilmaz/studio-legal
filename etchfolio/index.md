@@ -21,7 +21,7 @@ Etchfolio Pro is a one-time purchase of $2.99 in the US.
 ## Works with
 - LightBurn files (.lbrn and .lbrn2). Etchfolio shows the preview image LightBurn saves in each file.
 - SVG, PDF and AI files, drawn by macOS. PDF and AI files show their first page.
-- DXF files, drawn by Etchfolio: lines, arcs, circles, polylines, splines and blocks.
+- DXF files, drawn by Etchfolio: lines, arcs, circles, ellipses, polylines, splines and blocks.
 - Folders on external drives. They come back when the drive is connected.
 
 Etchfolio is not made by or affiliated with LightBurn Software.
