@@ -6,4 +6,4 @@ Privacy policies and support pages for apps by Mustafa Alp Yılmaz.
 - [Trailhold](trailhold/): [Privacy Policy](trailhold/privacy-policy.html), [Support](trailhold/support.html)
 - [Gustbook](gustbook/): [Privacy Policy](gustbook/privacy-policy.html), [Support](gustbook/support.html)
 - [Inkhaul](inkhaul/): [Privacy Policy](inkhaul/privacy-policy.html), [Support](inkhaul/support.html)
-- Ferrydisk: [Privacy Policy](ferrydisk/privacy-policy.html), [Support](ferrydisk/support.html)
+- [Ferrydisk](ferrydisk/): [Privacy Policy](ferrydisk/privacy-policy.html), [Support](ferrydisk/support.html)
