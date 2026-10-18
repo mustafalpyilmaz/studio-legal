@@ -15,7 +15,7 @@ macOS 28 drops encrypted Mac OS Extended (CoreStorage) volumes. Apple's decrypt 
 - Resumes a copy after sleep, an unplugged disk or a quit. Pro.
 - Verifies every copied block against the old disk, and copies differing blocks again. Pro.
 
-Ferrydisk Pro is a one-time purchase of $3.99 in the US.
+Ferrydisk Pro is a one-time purchase of $3.99 in the US. The license key arrives by email within 24 hours of payment.
 
 ## Works with
 - Encrypted Mac OS Extended (HFS+) volumes on USB, Thunderbolt and internal drives, including Time Machine backup disks.
