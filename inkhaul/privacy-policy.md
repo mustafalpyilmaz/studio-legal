@@ -3,7 +3,7 @@ description: "Inkhaul (\"the app\") is made by Mustafa Alp Yılmaz."
 ---
 # Inkhaul Privacy Policy
 
-Last updated: 2026-10-11
+Last updated: 2026-10-18
 
 Inkhaul ("the app") is made by Mustafa Alp Yılmaz.
 
@@ -16,6 +16,7 @@ Purchases are processed by Apple. We do not receive your payment details. Apple'
 ## Data on your device
 The app reads notes from the files you choose and uploads nothing.
 It saves your export format choice in the app's settings on your Mac.
+For the App Store rating prompt, it also counts app launches and finished imports and exports there.
 It saves the count of free notes you have used in your Mac's Keychain. This count stays after you delete the app.
 Unpacked ZIP files go to a temporary folder that the app deletes when it quits.
 
