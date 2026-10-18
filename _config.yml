@@ -1,2 +1,4 @@
 title: Legal
 theme: jekyll-theme-primer
+plugins:
+  - jekyll-sitemap
