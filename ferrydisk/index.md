@@ -33,7 +33,7 @@ Ferrydisk is not made by or affiliated with Apple.
 
 ## Requirements
 macOS 26 or later, on Apple silicon or Intel.
-The destination disk needs as much free space as the old volume uses.
+On an APFS destination disk, the copy needs as much free space as the old volume uses. On a Mac OS Extended or exFAT disk, it needs the old volume's full size.
 Ferrydisk reads disks through a helper that runs as root. macOS asks you to allow it in Login Items & Extensions.
 
 ## Questions
