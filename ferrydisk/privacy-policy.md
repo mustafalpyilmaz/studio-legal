@@ -1,3 +1,6 @@
+---
+description: "Ferrydisk (\"the app\") is made by Mustafa Alp Yılmaz."
+---
 # Ferrydisk Privacy Policy
 
 Last updated: 2026-10-11

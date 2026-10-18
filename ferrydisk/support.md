@@ -1,4 +1,9 @@
+---
+description: "Ferrydisk is made by Mustafa Alp Yılmaz."
+---
 # Ferrydisk Support
+
+Ferrydisk is made by Mustafa Alp Yılmaz. It needs macOS 26 or later.
 
 Need help or found a problem? Email mustafalpyilmaz0@gmail.com and you'll get a reply within two business days.
 
