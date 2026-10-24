@@ -10,3 +10,4 @@ Privacy policies and support pages for apps by Mustafa Alp Yılmaz.
 - [Notelapse](notelapse/): [Privacy Policy](notelapse/privacy-policy.html), [Support](notelapse/support.html)
 - [Feeprune](feeprune/): [Privacy Policy](feeprune/privacy-policy.html), [Support](feeprune/support.html)
 - [Kincard](kincard/): [Privacy Policy](kincard/privacy-policy.html), [Support](kincard/support.html)
+- Couchmast: [Privacy Policy](couchmast/privacy-policy.html), [Support](couchmast/support.html)
