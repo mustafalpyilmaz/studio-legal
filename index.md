@@ -8,3 +8,4 @@ Privacy policies and support pages for apps by Mustafa Alp Yılmaz.
 - [Inkhaul](inkhaul/): [Privacy Policy](inkhaul/privacy-policy.html), [Support](inkhaul/support.html)
 - [Ferrydisk](ferrydisk/): [Privacy Policy](ferrydisk/privacy-policy.html), [Support](ferrydisk/support.html)
 - [Notelapse](notelapse/): [Privacy Policy](notelapse/privacy-policy.html), [Support](notelapse/support.html)
+- [Feeprune](feeprune/): [Privacy Policy](feeprune/privacy-policy.html), [Support](feeprune/support.html)
