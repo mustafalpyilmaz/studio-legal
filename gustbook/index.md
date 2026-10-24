@@ -1,7 +1,7 @@
 ---
 description: "Gustbook is a Mac app that records the readings of an AcuRite Access hub for home weather station owners."
 ---
-# Gustbook
+# Gustbook: AcuRite weather station logger for Mac
 
 Gustbook is a Mac app that records the readings of an AcuRite Access hub for home weather station owners.
 
@@ -34,6 +34,11 @@ Gustbook is not made by or affiliated with AcuRite or Weather Underground.
 - It records only while the Mac is on and Gustbook is running. Turn on Start at login in Settings.
 - It does not read Weather Underground or weewx files.
 - It does not run on iPhone or Windows.
+
+## Compared with
+- AcuRite NOW+: $1.99 a month or $19.99 a year for 365 days of history and Weather Underground sharing. Gustbook keeps every reading free, and Pro is $2.99 once.
+- Acuparse and weewx with weewx-interceptor: free, but they need a Linux server and DNS changes. Gustbook needs only the hub's IP address.
+- Weather Fusion and other PWS apps: they read AcuRite data through Weather Underground, which now needs AcuRite NOW+. Gustbook receives the hub's uploads directly.
 
 ## Requirements
 macOS 26 or later, and an AcuRite Access hub on the same network as the Mac.
