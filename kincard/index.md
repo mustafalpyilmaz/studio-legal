@@ -47,7 +47,7 @@ No. The book owner buys Kincard Pro once. The people they invite join free.
 Yes. Kincard writes them to your iPhone's contacts, and iCloud carries them to your Mac and iPad.
 
 **Can I leave a book later?**
-Yes. Leave a book, or delete a book you own, in Kincard. Everyone keeps the cards as their own contacts.
+Yes. When you leave a book, you choose to keep its cards or remove them. When you delete a book you own, everyone keeps its cards as their own contacts.
 
 ## Get it
 Kincard is coming to the App Store. The download link goes here at launch.
