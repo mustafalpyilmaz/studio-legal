@@ -11,5 +11,5 @@ Privacy policies and support pages for apps by Mustafa Alp Yılmaz.
 - [Feeprune](feeprune/): [Privacy Policy](feeprune/privacy-policy.html), [Support](feeprune/support.html)
 - [Kincard](kincard/): [Privacy Policy](kincard/privacy-policy.html), [Support](kincard/support.html)
 - Couchmast: [Privacy Policy](couchmast/privacy-policy.html), [Support](couchmast/support.html)
-- Echocask: [Privacy Policy](echocask/privacy-policy.html), [Support](echocask/support.html)
+- [Echocask](echocask/): [Privacy Policy](echocask/privacy-policy.html), [Support](echocask/support.html)
 - [Facekeep](facekeep/): [Privacy Policy](facekeep/privacy-policy.html), [Support](facekeep/support.html)
