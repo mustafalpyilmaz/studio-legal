@@ -18,7 +18,7 @@ The app saves the title, folder and text of your notes in Apple Notes, one versi
 
 ## Permissions
 - Automation for Notes: the app asks Notes for each note's change date and reads the text of notes that changed. A restore asks Notes to create a new note. The app never reads locked notes. You can turn this off in System Settings > Privacy & Security > Automation.
-- Login item: the app opens at login, so versions keep saving. You can turn this off in the app's Settings.
+- Login item: if you turn on Open at login in setup or Settings, the app opens at login, so versions keep saving. You can turn it off in the app's Settings.
 
 ## Third parties
 The app does not include third-party analytics, advertising or tracking.

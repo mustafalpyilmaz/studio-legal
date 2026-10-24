@@ -9,7 +9,7 @@ Apple Notes keeps only the latest text of a note. If you paste over a paragraph 
 
 ## What it does
 - Saves the text of every changed note once a minute, while Notes is open. Free.
-- Runs from the menu bar and opens at login, so versions save with no window open. Free.
+- Runs from the menu bar, and can open at login, so versions save with no window open. Free.
 - Shows a timeline under each note. Step back through its versions by date and time. Free.
 - Shows changes: removed words in red and added words in green. Free.
 - Restores any version as a new note in the same folder. The original note is not changed. Pro.
