@@ -9,7 +9,7 @@ The AcuRite app keeps 30 days of station history for free, and more history need
 
 ## What it does
 - Records every upload from your AcuRite Access hub on your Mac, with no limit on history. Free.
-- Passes each upload on to AcuRite unchanged, so the AcuRite app keeps working. You can turn this off. Free.
+- While Gustbook runs, passes each upload on to AcuRite unchanged, so the AcuRite app keeps working. You can turn this off. Free.
 - Reading cells for each sensor: temperature, humidity, dew point, wind, rain today, pressure and UV. Free.
 - 24 hour and 7 day charts, and daily records for the last 7 days. Free.
 - Imports My AcuRite CSV exports. Free.
@@ -37,7 +37,7 @@ Gustbook is not made by or affiliated with AcuRite or Weather Underground.
 
 ## Compared with
 - AcuRite NOW+: $1.99 a month or $19.99 a year for 365 days of history and Weather Underground sharing. Gustbook keeps every reading free, and Pro is $2.99 once.
-- Acuparse and weewx with weewx-interceptor: free, but they need a Linux server and DNS changes. Gustbook needs only the hub's IP address.
+- Acuparse and weewx with weewx-interceptor: free, but they need a Linux server and a hostname the hub can reach. Gustbook needs only the hub's IP address.
 - Weather Fusion and other PWS apps: they read AcuRite data through Weather Underground, which now needs AcuRite NOW+. Gustbook receives the hub's uploads directly.
 
 ## Requirements
