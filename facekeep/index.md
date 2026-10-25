@@ -1,9 +1,9 @@
 ---
-description: "Save people tags as keywords."
+description: "Facekeep is a Mac app that saves every face name in Apple Photos and shows which names a macOS update or a sync dropped."
 ---
 # Facekeep: Face Name Backup
 
-Save people tags as keywords. Facekeep is a Mac app that saves every face name in Apple Photos and shows which names a macOS update or a sync dropped.
+Facekeep is a Mac app that saves every face name in Apple Photos and shows which names a macOS update or a sync dropped. Pro copies those people tags into keywords on the photos.
 
 Names typed onto faces in Photos can vanish after a macOS update, a rescan or an iCloud sync. Family archivists lose names on thousands of scanned photos and re-tag them by hand. The usual advice is to copy each name into a keyword yourself.
 
@@ -44,7 +44,7 @@ Yes. Facekeep compares Photos with the snapshot each time it opens and lists eac
 No. No Apple tool lets an app name a face. Facekeep makes an album of the photos to re-tag and adds each name as a keyword, which Photos keeps.
 
 **Do I need to copy names into keywords by hand?**
-No. Facekeep Pro adds each person's name as a keyword to every photo of them in one run.
+No. With Pro, click Add Keywords and pick all people. Facekeep writes each name as a keyword on that person's photos.
 
 **Does Facekeep change my Photos library?**
 No for faces. Facekeep only reads the Photos database. With Pro it adds keywords and one album through Photos.
