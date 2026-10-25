@@ -3,7 +3,7 @@ description: "Notelapse is made by Mustafa Alp Yılmaz."
 ---
 # Notelapse Support
 
-Notelapse is made by Mustafa Alp Yılmaz. Need help or found a problem? Email mustafalpyilmaz0@gmail.com and you'll get a reply within two business days.
+Notelapse is made by Mustafa Alp Yılmaz. If you need help or find a problem, email mustafalpyilmaz0@gmail.com. You'll get a reply within two business days.
 
 Notelapse needs macOS 26 or later.
 

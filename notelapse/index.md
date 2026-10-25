@@ -5,7 +5,7 @@ description: "Notelapse is a Mac app that saves a version of each Apple Notes no
 
 Notelapse is a Mac app that saves a version of each Apple Notes note every time it changes, for people who keep long notes.
 
-Apple Notes keeps only the latest text of a note. If you paste over a paragraph or delete the wrong lines, iCloud syncs the loss to every device.
+Apple Notes keeps one copy of each note. Text you paste over or delete is gone, and iCloud removes it from your other devices too.
 
 ## What it does
 - Saves the text of every changed note once a minute, while Notes is open. Free.
@@ -25,7 +25,7 @@ Notelapse Pro is a one-time purchase of $3.99 in the US.
 Notelapse is not made by or affiliated with Apple.
 
 ## What it does not do
-- It saves versions from the moment you install it. It cannot bring back text lost before that.
+- It has no history from before you installed it.
 - It saves versions only while Notes is open on the Mac.
 - It skips locked notes. It never reads or saves them.
 - It keeps the text of each note, not its attachments.
@@ -36,10 +36,10 @@ macOS 26 or later, on Apple silicon or Intel.
 
 ## Questions
 **Can I undo saved edits to a note in Apple Notes?**
-Yes, with Notelapse. It saves a version each time the note changes, and you can restore any version as a new note.
+Yes, with Notelapse. It saves a version each time the note changes. With Notelapse Pro, you can restore any version as a new note.
 
 **I pasted over a note. Can Notelapse get the old text back?**
-Yes, if Notelapse was running before the paste. Open the note in Notelapse, step back to the earlier version and restore it.
+Yes, if Notelapse was running before the paste. Open the note in Notelapse and step back to the earlier version. Restoring it needs Notelapse Pro.
 
 **Does Notelapse change my notes?**
 No. Notelapse only reads notes. A restore adds a new note and leaves the original as it is.
