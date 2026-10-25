@@ -5,7 +5,7 @@ description: "Etchfolio is a Mac app that shows LightBurn, SVG, DXF, PDF and AI 
 
 Etchfolio is a Mac app that shows LightBurn, SVG, DXF, PDF and AI files as thumbnails for laser engravers.
 
-On a Mac, LightBurn and DXF files show a plain icon in Finder. To find a design, you open one file after another in LightBurn. LightBurn draws thumbnails on Windows, but not on a Mac.
+In Finder on a Mac, every LightBurn and DXF file has the same plain icon. To find a design, you open one file after another in LightBurn. LightBurn draws thumbnails on Windows, but not on a Mac.
 
 ## What it does
 - A thumbnail grid of every LightBurn (.lbrn, .lbrn2), SVG, DXF, PDF and AI file in the folders you add, subfolders included. Free.
@@ -31,6 +31,7 @@ Etchfolio is not made by or affiliated with LightBurn Software.
 - It does not draw text or hatches in DXF files.
 - A LightBurn file saved without a preview image shows a placeholder. Save it once in LightBurn to add one.
 - It does not run on Windows or iPad.
+- It needs no account and has no tracking.
 
 ## Requirements
 macOS 26 or later.
@@ -49,7 +50,7 @@ Yes. With Pro, the large preview shows the speed, power and passes saved in each
 Yes. With Pro, Etchfolio saves any folder as a PDF catalog with 12 designs per page.
 
 **Does Etchfolio change my files?**
-No. Etchfolio only reads your files. It needs no account and has no tracking.
+No. Etchfolio reads design files and never writes to them. A PDF catalog is saved only where you choose.
 
 ## Get it
 Etchfolio is coming to the Mac App Store. The store link goes here at launch.
