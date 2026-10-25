@@ -5,7 +5,7 @@ description: "Gustbook is made by Mustafa Alp Yılmaz."
 
 Gustbook is made by Mustafa Alp Yılmaz. It needs macOS 26 or later.
 
-Need help or found a problem? Email mustafalpyilmaz0@gmail.com and you'll get a reply within two business days.
+For help or to report a problem, email mustafalpyilmaz0@gmail.com. Replies come within two business days.
 
 ## Set the hub's server name by hand
 Gustbook sets the server name for you. If it cannot reach your hub, set it this way:
@@ -30,5 +30,5 @@ Open a chart range marked with a lock, or click Export, then click "Restore purc
 **How do I get a refund?**
 Refunds are handled by Apple: https://reportaproblem.apple.com
 
-**Where is my data stored?**
+**Where are my readings stored?**
 On your Mac. See the privacy policy: https://mustafalpyilmaz.github.io/studio-legal/gustbook/privacy-policy.html

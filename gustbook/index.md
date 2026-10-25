@@ -8,16 +8,16 @@ Gustbook is a Mac app that records the readings of an AcuRite Access hub for hom
 The AcuRite app keeps 30 days of station history for free, and more history needs a subscription. Weather Underground sharing is paid too. Owners want to keep their own station data without a yearly fee.
 
 ## What it does
-- Records every upload from your AcuRite Access hub on your Mac, with no limit on history. Free.
+- Stores each upload from your AcuRite Access hub on your Mac. Nothing is deleted after 30 days. Free.
 - While Gustbook runs, passes each upload on to AcuRite unchanged, so the AcuRite app keeps working. You can turn this off. Free.
-- Reading cells for each sensor: temperature, humidity, dew point, wind, rain today, pressure and UV. Free.
+- Current temperature, humidity, dew point, wind, rain today, pressure and UV per sensor. Free.
 - 24 hour and 7 day charts, and daily records for the last 7 days. Free.
 - Imports My AcuRite CSV exports. Free.
-- Sensor names, units, and the latest temperature in the menu bar. Free.
-- Charts for 30 days, 1 year and every stored day. Pro.
+- Rename sensors, pick units, and show the latest temperature in the menu bar. Free.
+- 30 day, 1 year and All chart ranges. Pro.
 - Daily records for every stored day, sortable by column. Pro.
 - Uploads to Weather Underground and CWOP. Pro.
-- CSV export of any sensor and date range. Pro.
+- Export a sensor's readings for a chosen date range as CSV. Pro.
 
 Gustbook Pro is a one-time purchase of $2.99 in the US.
 
@@ -31,7 +31,7 @@ Gustbook is not made by or affiliated with AcuRite or Weather Underground.
 
 ## What it does not do
 - It does not work with the smartHUB, Wi-Fi displays or USB consoles.
-- It records only while the Mac is on and Gustbook is running. Turn on Start at login in Settings.
+- Nothing is recorded while the Mac is off or Gustbook is closed. Start at login is in Settings.
 - It does not read Weather Underground or weewx files.
 - It does not run on iPhone or Windows.
 
