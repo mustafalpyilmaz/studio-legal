@@ -5,13 +5,14 @@ description: "Gustbook is a Mac app that records the readings of an AcuRite Acce
 
 Gustbook is a Mac app that records the readings of an AcuRite Access hub for home weather station owners.
 
-The AcuRite app keeps 30 days of station history for free, and more history needs a subscription. Weather Underground sharing is paid too. Owners want to keep their own station data without a yearly fee.
+Owners are being moved off the old AcuRite app and the My AcuRite website. Owners report that My AcuRite shuts down on November 4, 2026. AcuRite NOW, the app that replaces them, keeps 30 days of history on its free plan. A year of history and Weather Underground sharing need its NOW+ subscription. Gustbook keeps every reading on your Mac, with no subscription.
 
 ## What it does
 - Stores each upload from your AcuRite Access hub on your Mac. Nothing is deleted after 30 days. Free.
+- Daily highs, lows and rain totals for the last 7 days. Free.
 - While Gustbook runs, passes each upload on to AcuRite unchanged, so the AcuRite app keeps working. You can turn this off. Free.
 - Current temperature, humidity, dew point, wind, rain today, pressure and UV per sensor. Free.
-- 24 hour and 7 day charts, and daily records for the last 7 days. Free.
+- 24 hour and 7 day graphs, with times and values on the axes. Free.
 - Imports My AcuRite CSV exports. Free.
 - Rename sensors, pick units, and show the latest temperature in the menu bar. Free.
 - 30 day, 1 year and All chart ranges. Pro.
@@ -50,8 +51,14 @@ Yes. Gustbook stores every reading from your Access hub on your Mac, with no lim
 **Does the AcuRite app still work with Gustbook?**
 Yes. Gustbook passes each upload on to AcuRite unchanged, unless you turn forwarding off.
 
-**Can I upload my AcuRite station to Weather Underground for free?**
-No. Weather Underground and CWOP uploads need Gustbook Pro, a one-time purchase of $2.99 in the US.
+**Can I upload my AcuRite station to Weather Underground without a subscription?**
+Yes. Gustbook Pro uploads your Access hub's readings to Weather Underground and CWOP. It is a one-time purchase of $2.99 in the US.
+
+**Can I keep my AcuRite Access data local?**
+Yes. Gustbook receives each upload from your Access hub and stores it in a database on your Mac. If you turn off forwarding and uploads, readings stay on your Mac.
+
+**Is there an AcuRite NOW alternative for Mac?**
+Yes. Gustbook runs on the Mac and records your Access hub directly, with graphs, daily records and renamed sensors. While forwarding is on, the AcuRite NOW app keeps working beside it.
 
 **Can I import my My AcuRite history?**
 Yes. Gustbook imports the CSV from the Export Data button on My AcuRite, for free.
@@ -64,5 +71,7 @@ No. Gustbook has no account, no server and no tracking. It sends readings only t
 
 ## Get it
 Gustbook is coming to the Mac App Store. The store link goes here at launch.
+
+[Email this link to my Mac](mailto:?subject=Gustbook%20for%20Mac&body=https://mustafalpyilmaz.github.io/studio-legal/gustbook/)
 
 [Support](support.html) · [Privacy Policy](privacy-policy.html)
