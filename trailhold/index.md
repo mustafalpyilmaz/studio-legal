@@ -43,7 +43,7 @@ Yes. Trailhold runs natively on Apple silicon and imports the GPX folders BaseCa
 Yes. With Pro, Trailhold sends lists to Garmin units that mount as a drive, such as the eTrex 30x and Zumo.
 
 **Can Trailhold import a whole folder of GPX files at once?**
-Yes. Trailhold imports whole folders. Each folder keeps its name, and each GPX file in it becomes a list.
+Yes. Pick the folder BaseCamp exported, and it shows up in the sidebar under the same name.
 
 **Can I edit GPX tracks and routes on a Mac?**
 Yes. Trailhold Pro draws and edits routes, and joins, splits, trims and simplifies tracks.
