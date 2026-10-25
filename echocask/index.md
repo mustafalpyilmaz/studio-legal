@@ -5,19 +5,19 @@ description: "Echocask is a Mac app that backs up Voice Memos recordings with th
 
 Echocask is a Mac app that backs up Voice Memos recordings with their dates and titles, for people who record lectures, interviews and family voices.
 
-Voice Memos syncs through iCloud, so deleting a recording to free iCloud space deletes it on every device. Exported memos also get the export date instead of the recording date. People have lost lectures and recordings of a parent's voice this way.
+Voice Memos syncs through iCloud, so deleting a recording to free iCloud space deletes it on every device. Exported memos also get the export date instead of the recording date. One Apple Community user lost 4.4 GB of lectures and recordings of a parent's voice this way.
 
 ## What it does
 - Copies each recording to a folder you choose, such as Music > Echocask. Free for up to 20 recordings.
 - Names each file by its recording date and title, such as "2026-10-24 12.55 Lecture 3.m4a", and sets the file date to the recording date.
-- Copies the .m4a file byte for byte. Nothing is converted.
+- Keeps the original .m4a audio, without converting it.
 - Shows every recording on a timeline by day, with its time, length and a waveform. Free.
 - Marks each recording Archived, Not archived, Waiting for download, Deleted in Voice Memos, or Only in Echocask. Free.
-- Shows the days left for a recording deleted in Voice Memos, so you can archive it before Voice Memos erases it. Free.
+- Counts down the 30 days a deleted recording stays in Recently Deleted. Free.
 - Plays any recording, searches titles and shows archived files in Finder. Free.
 - Renames an archived file when you rename the recording in Voice Memos.
 - Pro, a one-time purchase of $2.99 in the US, adds:
-  - Archive every recording, with no cap.
+  - No limit on how many recordings it archives.
   - Auto archive: Echocask stays in the menu bar with its window closed and copies new recordings as they sync. It can open at login.
   - Voice Memos folders kept as subfolders in the archive.
 

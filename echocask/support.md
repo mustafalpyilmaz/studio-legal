@@ -3,7 +3,7 @@ description: "Echocask is made by Mustafa Alp Yılmaz."
 ---
 # Echocask Support
 
-Echocask is made by Mustafa Alp Yılmaz. Need help or found a problem? Email mustafalpyilmaz0@gmail.com and you'll get a reply within two business days.
+Echocask is made by Mustafa Alp Yılmaz. For help or to report a problem, email mustafalpyilmaz0@gmail.com. You get a reply within two business days.
 
 Echocask needs macOS 26 or later.
 
