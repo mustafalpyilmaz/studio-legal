@@ -3,14 +3,14 @@ description: "Feeprune is made by Mustafa Alp Yılmaz."
 ---
 # Feeprune Support
 
-Feeprune is made by Mustafa Alp Yılmaz. Need help or found a problem? Email mustafalpyilmaz0@gmail.com and you'll get a reply within two business days.
+Feeprune is made by Mustafa Alp Yılmaz. For help or to report a problem, email mustafalpyilmaz0@gmail.com. You get a reply within two business days.
 
 Feeprune needs macOS 26 or later.
 
 ## Common questions
 
 **How do I restore my purchase?**
-Feeprune Pro unlocks by itself when you open Feeprune with the Apple Account you bought with. If it stays locked, import a report and click Import Costs. In the Feeprune Pro window, click Restore Purchase. Use the same Apple Account you bought with.
+Feeprune Pro turns on by itself when you open Feeprune with the Apple Account you bought with. If Pro stays off, import a report and click Import Costs. In the Feeprune Pro window, click Restore Purchase. Use the same Apple Account you bought with.
 
 **Which file does Feeprune read?**
 The Transaction report CSV from eBay Seller Hub. In Seller Hub, open Payments, then Reports. Create a Transaction report for one month, download the CSV file and drop it on the Feeprune window. The Orders report does not work.

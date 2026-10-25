@@ -5,7 +5,7 @@ description: "Feeprune is a Mac app that shows each listing's profit after its a
 
 Feeprune is a Mac app that shows each listing's profit after its ad fee, for eBay sellers who run Promoted Listings.
 
-Since January 2026, eBay charges General ad fees on more sales, and Seller Hub no longer splits direct and halo sales. Sellers call it a stealth fee increase and say they cannot tell which ad fees bought real sales. Feeprune reads one month of your Transaction report and names the listings where the ad does not pay.
+Since January 2026, eBay charges General ad fees on more sales, and Seller Hub no longer splits direct and halo sales. One seller on the eBay Community called it a stealth fee increase. Others say they cannot tell which ad fees bought real sales. Feeprune reads one month of your Transaction report and names the listings where the ad does not pay.
 
 ## What it does
 - Reads the Transaction report CSV from Seller Hub, by drop or Open window. Rows group by listing and calendar month.
@@ -15,7 +15,7 @@ Since January 2026, eBay charges General ad fees on more sales, and Seller Hub n
 - Totals the month: sales, eBay fees, ad fees, item costs, profit after ads and the ad fees spent where ads don't pay.
 - Free: one month, with every feature above.
 - Feeprune Pro, a one-time purchase of $4.99 in the US, adds:
-  - Every month, kept side by side in the month menu.
+  - All imported months, picked from the month menu.
   - Max ad rate for each listing, next to its current rate. Below eBay's lowest rate of 2%, it says Remove ad.
   - Export Flagged: the flagged listings as a CSV file with their rates, ad fee and profit after ad.
   - Import Costs: item costs from a CSV file keyed by Item ID or Custom label.
@@ -30,9 +30,9 @@ Feeprune is not made by or affiliated with eBay Inc.
 ## What it does not do
 - It does not connect to eBay or any server. It reads only the files you pick or drop.
 - It does not read the Orders report or the advertising reports.
-- It does not change ad rates on eBay. You change them in Seller Hub.
+- It does not set ad rates. You set them in Seller Hub.
 - It reads one currency per report. Create one report per eBay site.
-- Profit after ad is an estimate. It uses the costs you enter, and a listing without a cost counts its cost as zero.
+- Profit after ad is only as good as the costs you type. A listing with no cost counts it as zero.
 
 ## Requirements
 macOS 26 or later, on Apple silicon or Intel.
