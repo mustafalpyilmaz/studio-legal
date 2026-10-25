@@ -1,7 +1,7 @@
 ---
 description: "Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk, for people who keep years of notes in Samsung Notes."
 ---
-# Inkhaul
+# Inkhaul: Samsung Notes to Apple Notes for Mac
 
 Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk, for people who keep years of notes in Samsung Notes.
 
@@ -14,7 +14,7 @@ Samsung Notes files (.sdocx) do not open on a Mac or an iPhone. Samsung shares t
 - Removes the 10-note import limit. Pro.
 - Exports notes as PDF or Markdown files, one file per note, in one folder per group. Pro.
 
-Inkhaul Pro is a one-time purchase of $2.99 in the US.
+Inkhaul Pro is a one-time purchase of $2.99 in the US, with no subscription.
 
 ## Works with
 - Samsung Notes files (.sdocx), shared from Samsung Notes with Share > Samsung Notes file.
@@ -33,8 +33,17 @@ Inkhaul is not made by or affiliated with Samsung.
 - It does not turn handwriting into text. Handwritten pages arrive as pictures.
 - It does not change your Samsung Notes files. It only reads them.
 
+## Compared with
+- Wondershare MobileTrans: $59.99 a year or $79.99 once at list price on the Mac. Its Samsung Notes guide does not say the notes land in Apple Notes.
+- Coolmuster Mobile Transfer: $26 a year or $36 for life. Its own guide says it does not move Samsung Notes.
+- The sdocx web viewer by twangodev: free and open source. It saves one note at a time as SVG, PNG or PDF, with no Apple Notes import.
+- Convert.Guru: free. It turns a single .sdocx file into a PDF.
+- Sharing each note through Google Keep or OneNote: free, one note at a time. Handwriting comes through as an image or not at all.
+
+Inkhaul imports hundreds of notes into Apple Notes in one pass, with their folders and dates. Pro is $2.99, paid once.
+
 ## Requirements
-macOS 26 or later.
+macOS 26 or later, on a Mac with Apple silicon or an Intel processor.
 
 ## Questions
 **Can I transfer Samsung Notes to Apple Notes on a Mac?**
@@ -54,5 +63,7 @@ Yes. Reading and previewing notes is free, and so is importing the first 10.
 
 ## Get it
 Inkhaul is coming to the Mac App Store. The store link goes here at launch.
+
+[Email this link to my Mac](mailto:?subject=Inkhaul%20for%20Mac&body=https://mustafalpyilmaz.github.io/studio-legal/inkhaul/)
 
 [Support](support.html) · [Privacy Policy](privacy-policy.html)
