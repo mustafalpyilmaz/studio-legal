@@ -3,7 +3,7 @@ description: "Kincard is made by Mustafa Alp Yılmaz."
 ---
 # Kincard Support
 
-Kincard is made by Mustafa Alp Yılmaz. Need help or found a problem? Email mustafalpyilmaz0@gmail.com and you'll get a reply within two business days.
+Kincard is made by Mustafa Alp Yılmaz. If you need help or find a problem, email mustafalpyilmaz0@gmail.com. You'll get a reply within two business days.
 
 Kincard needs iOS 26 or later on iPhone.
 

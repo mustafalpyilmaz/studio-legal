@@ -5,7 +5,7 @@ description: "Kincard is an iPhone app that keeps one shared address book for a 
 
 Kincard is an iPhone app that keeps one shared address book for a couple or family, in each person's own Contacts app.
 
-Apple shares notes, reminders and calendars between two Apple Accounts, but not contacts. Couples send each other vCards that never update, or set up a third iCloud account that overwrites their own card. Kincard lets each person keep their own Apple Account and still see the same plumber, school and relatives on their phone.
+Two people with separate Apple Accounts can share notes, reminders and calendars, but not contacts. Couples send each other vCards that never update, or set up a third iCloud account that overwrites their own card. With Kincard, each person keeps their own Apple Account, and both phones list the same plumber, school and relatives.
 
 ## What it does
 - Shares a book of contacts, such as Family, with the people you invite by link.
@@ -13,7 +13,7 @@ Apple shares notes, reminders and calendars between two Apple Accounts, but not 
 - Sends an edit or a deleted card to everyone in the book.
 - Picks up edits made to a book card in the Contacts app the next time you open Kincard.
 - Imports cards you already have into a book.
-- Matches cards you already have when you join, so you get no duplicates.
+- When you join a book, matches it against cards you already have instead of adding second copies.
 - Keeps notes and your other contacts on your iPhone.
 - Free: one book shared with one other person, with up to 25 cards.
 - Kincard Pro, a one-time purchase of $3.99 in the US: unlimited cards and people, and several books such as Home services and School. The owner buys Pro, and the people they invite join free.
