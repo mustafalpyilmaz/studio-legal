@@ -1,9 +1,9 @@
 ---
-description: "Need help or found a problem?"
+description: "Email mustafalpyilmaz0@gmail.com with a question or a problem."
 ---
 # Inkhaul Support
 
-Need help or found a problem? Email mustafalpyilmaz0@gmail.com and you'll get a reply within two business days.
+Email mustafalpyilmaz0@gmail.com with a question or a problem. You'll get a reply within two business days.
 
 ## Common questions
 
@@ -13,5 +13,5 @@ Choose Inkhaul > Unlock Inkhaul Pro…, then click Restore Purchase. Use the sam
 **How do I get a refund?**
 Refunds are handled by Apple: https://reportaproblem.apple.com
 
-**Where is my data stored?**
-On your device. See the privacy policy: https://mustafalpyilmaz.github.io/studio-legal/inkhaul/privacy-policy.html
+**Where are my notes stored?**
+Inkhaul uploads nothing. It reads your .sdocx files and writes import and export files only to the folder you choose. See the privacy policy: https://mustafalpyilmaz.github.io/studio-legal/inkhaul/privacy-policy.html

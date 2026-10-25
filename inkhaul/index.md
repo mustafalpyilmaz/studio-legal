@@ -11,7 +11,7 @@ Samsung Notes files (.sdocx) do not open on a Mac or an iPhone. Samsung shares t
 - Reads .sdocx files, whole folders of them and .zip archives. Free.
 - Lists every note by folder and previews each one as Apple Notes will show it. Free.
 - Writes one import file per folder. Apple Notes imports them with the original created and edited dates. The first 10 notes are free.
-- Imports every note to Apple Notes, with no limit. Pro.
+- Removes the 10-note import limit. Pro.
 - Exports notes as PDF or Markdown files, one file per note, in one folder per group. Pro.
 
 Inkhaul Pro is a one-time purchase of $2.99 in the US.
@@ -50,7 +50,7 @@ Yes. Inkhaul imports into Apple Notes on the Mac. If Notes uses iCloud, the note
 Yes. Each folder of notes becomes its own folder in Apple Notes.
 
 **Can I try Inkhaul before I pay?**
-Yes. Inkhaul reads and previews every note for free, and imports 10 notes for free.
+Yes. Reading and previewing notes is free, and so is importing the first 10.
 
 ## Get it
 Inkhaul is coming to the Mac App Store. The store link goes here at launch.
