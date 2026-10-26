@@ -32,7 +32,7 @@ Gustbook is not made by or affiliated with AcuRite or Weather Underground.
 
 ## What it does not do
 - It does not work with the smartHUB, Wi-Fi displays or USB consoles.
-- Nothing is recorded while the Mac is off or Gustbook is closed. Start at login is in Settings.
+- Nothing is recorded while the Mac is off or Gustbook is quit. "Start Gustbook at login" is in Settings.
 - It does not read Weather Underground or weewx files.
 - It does not run on iPhone or Windows.
 
