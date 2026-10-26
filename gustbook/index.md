@@ -5,7 +5,7 @@ description: "Gustbook is a Mac app that records the readings of an AcuRite Acce
 
 Gustbook is a Mac app that records the readings of an AcuRite Access hub for home weather station owners.
 
-Owners are being moved off the old AcuRite app and the My AcuRite website. Owners report that My AcuRite shuts down on November 4, 2026. AcuRite NOW, the app that replaces them, keeps 30 days of history on its free plan. A year of history and Weather Underground sharing need its NOW+ subscription. Gustbook keeps every reading on your Mac, with no subscription.
+Owners are being moved off the old AcuRite app and the My AcuRite website. AcuRite has delayed the My AcuRite shutdown and has named no new date. AcuRite NOW, the app that replaces them, keeps 30 days of history on its free plan. A year of history and Weather Underground sharing need its NOW+ subscription. Gustbook keeps every reading on your Mac, with no subscription.
 
 ## What it does
 - Stores each upload from your AcuRite Access hub on your Mac. Nothing is deleted after 30 days. Free.
