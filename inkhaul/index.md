@@ -18,7 +18,8 @@ On the Galaxy:
 On the Mac:
 1. Open drive.google.com, select the files and download them. Drive gives you one .zip file.
 2. Drop the .zip on the Inkhaul window. Inkhaul lists every note by folder with a preview.
-3. Click Import to Apple Notes, then Open Notes. Apple Notes asks to import the notes.
+3. Click Import to Apple Notes, then Choose Folder… and pick where the import files go.
+4. Click Open Notes. Apple Notes asks to import the notes.
 
 On the iPhone, sign in to iCloud with the Mac's Apple Account and turn on Notes in iCloud settings. The notes then appear in the Notes app.
 
