@@ -18,7 +18,7 @@ Owners are being moved off the old AcuRite app and the My AcuRite website. Owner
 - 30 day, 1 year and All chart ranges. Pro.
 - Daily records for every stored day, sortable by column. Pro.
 - Uploads to Weather Underground and CWOP. Pro.
-- Export a sensor's readings for a chosen date range as CSV. Pro.
+- Export a sensor's readings as CSV, for the last 7 days, 30 days, year or all stored days. Pro.
 
 Gustbook Pro is a one-time purchase of $2.99 in the US.
 

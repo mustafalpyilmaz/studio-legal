@@ -25,7 +25,7 @@ The hub sends its readings to your Mac, and Gustbook passes them on to AcuRite. 
 On myacurite.com, open your device and click Export Data. My AcuRite emails a download link. In Gustbook, click Import and choose the downloaded CSV.
 
 **How do I restore my purchase?**
-Open a chart range marked with a lock, or click Export, then click "Restore purchase" in the Gustbook Pro sheet. Use the same Apple Account you bought with.
+Click Unlock Pro under a locked chart range, or click Export. In the Gustbook Pro sheet, click "Restore purchase". Use the same Apple Account you bought with.
 
 **How do I get a refund?**
 Refunds are handled by Apple: https://reportaproblem.apple.com
