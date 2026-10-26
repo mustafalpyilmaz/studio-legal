@@ -1,11 +1,26 @@
 ---
-description: "Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk, for people who keep years of notes in Samsung Notes."
+description: "Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk, so they sync to your iPhone through iCloud."
 ---
-# Inkhaul: Samsung Notes to Apple Notes for Mac
+# Transfer Samsung Notes to iPhone and Apple Notes: Inkhaul for Mac
 
-Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk, for people who keep years of notes in Samsung Notes.
+Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk, so they sync to your iPhone through iCloud.
 
 Samsung Notes files (.sdocx) do not open on a Mac or an iPhone. Samsung shares them one note at a time, and handwriting arrives as a flat PDF or not at all. Moving years of notes to Apple Notes means retyping them.
+
+## How to move Samsung Notes to your iPhone
+You need the Galaxy phone or tablet that has the notes, and a Mac. Inkhaul runs on the Mac, not on the iPhone.
+
+On the Galaxy:
+1. In Samsung Notes, touch and hold a note, then tap All.
+2. Tap Share, then choose Samsung Notes file. Locked notes are left out, so unlock them first.
+3. Choose Google Drive and save the files to one folder.
+
+On the Mac:
+1. Open drive.google.com, select the files and download them. Drive gives you one .zip file.
+2. Drop the .zip on the Inkhaul window. Inkhaul lists every note by folder with a preview.
+3. Click Import to Apple Notes, then Open Notes. Apple Notes asks to import the notes.
+
+On the iPhone, sign in to iCloud with the Mac's Apple Account and turn on Notes in iCloud settings. The notes then appear in the Notes app.
 
 ## What it does
 - Reads .sdocx files, whole folders of them and .zip archives. Free.
@@ -63,6 +78,8 @@ Yes. Reading and previewing notes is free, and so is importing the first 10.
 
 ## Get it
 Inkhaul is coming to the Mac App Store. The store link goes here at launch.
+
+[Email me when Inkhaul is out](mailto:mustafalpyilmaz0@gmail.com?subject=Inkhaul%20waitlist&body=Please%20email%20me%20when%20Inkhaul%20is%20on%20the%20Mac%20App%20Store.)
 
 [Email this link to my Mac](mailto:?subject=Inkhaul%20for%20Mac&body=https://mustafalpyilmaz.github.io/studio-legal/inkhaul/)
 
