@@ -1,9 +1,9 @@
 ---
-description: "Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk, so they sync to your iPhone through iCloud."
+description: "Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk for people switching from a Galaxy to an iPhone."
 ---
 # Transfer Samsung Notes to iPhone and Apple Notes: Inkhaul for Mac
 
-Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk, so they sync to your iPhone through iCloud.
+Inkhaul is a Mac app that moves Samsung Notes into Apple Notes in bulk for people switching from a Galaxy to an iPhone.
 
 Samsung Notes files (.sdocx) do not open on a Mac or an iPhone. Samsung shares them one note at a time, and handwriting arrives as a flat PDF or not at all. Moving years of notes to Apple Notes means retyping them.
 
