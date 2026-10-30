@@ -13,4 +13,4 @@ Privacy policies and support pages for apps by Mustafa Alp Yılmaz.
 - Couchmast: [Privacy Policy](couchmast/privacy-policy.html), [Support](couchmast/support.html)
 - [Echocask](echocask/): [Privacy Policy](echocask/privacy-policy.html), [Support](echocask/support.html)
 - [Facekeep](facekeep/): [Privacy Policy](facekeep/privacy-policy.html), [Support](facekeep/support.html)
-- Linetake: [Privacy Policy](linetake/privacy-policy.html), [Support](linetake/support.html)
+- [Linetake](linetake/): [Privacy Policy](linetake/privacy-policy.html), [Support](linetake/support.html)

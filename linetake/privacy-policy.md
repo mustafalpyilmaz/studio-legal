@@ -15,7 +15,7 @@ Linetake asks to use the microphone. While a session window is in front, it read
 The audio is written as WAV files to the folder you choose for each script. It is never sent anywhere.
 
 ## Your scripts and takes
-Linetake reads the script files you open: CSV, TSV, Excel and Word. It does not change them.
+Linetake reads the script files you open: CSV, TSV, TXT, Excel and Word. It does not change them.
 Takes are saved in the folder you choose, next to the script or anywhere you pick. Linetake keeps a link to the script and the folder, so a script opens again after a restart.
 
 ## Data on your Mac
