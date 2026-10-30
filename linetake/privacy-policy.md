@@ -11,7 +11,7 @@ Linetake ("the app") is made by Mustafa Alp Yılmaz.
 We collect no personal data. We run no server, and nothing you record or open in the app reaches us.
 
 ## Microphone
-Linetake asks to use the microphone. It records your voice for each script line, only while you record a take or while hands-free mode listens.
+Linetake asks to use the microphone. While a session window is in front, it reads the input to show its level. It records only while you record a take, or when hands-free mode hears your voice.
 The audio is written as WAV files to the folder you choose for each script. It is never sent anywhere.
 
 ## Your scripts and takes
