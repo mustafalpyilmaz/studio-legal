@@ -3,7 +3,7 @@ description: "Etchfolio (\"the app\") is made by Mustafa Alp Yılmaz."
 ---
 # Etchfolio Privacy Policy
 
-Last updated: 2026-10-24
+Last updated: 2026-11-01
 
 Etchfolio ("the app") is made by Mustafa Alp Yılmaz.
 
@@ -13,7 +13,7 @@ Your design files stay where they are on your Mac.
 
 ## Your files
 Etchfolio reads only the folders you add with the folder picker. It never changes your design files.
-To show thumbnails, it keeps a copy of each file's saved preview image in its own cache on your Mac.
+To show thumbnails, it keeps a thumbnail image of each design file in its own cache on your Mac.
 Removing a folder from Etchfolio removes it from the list. The files stay on disk.
 
 A PDF catalog is saved only where you choose in the save panel.
