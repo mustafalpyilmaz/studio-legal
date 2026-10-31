@@ -56,7 +56,7 @@ Inkhaul is not made by or affiliated with Samsung.
 - Convert.Guru: free. It turns a single .sdocx file into a PDF.
 - Sharing each note through Google Keep or OneNote: free, one note at a time. Handwriting comes through as an image or not at all.
 
-Inkhaul imports hundreds of notes into Apple Notes in one pass, with their folders and dates. Pro is $2.99, paid once.
+Inkhaul imports hundreds of notes into Apple Notes in one pass, with their dates and one Notes folder per folder of files. Pro is $2.99, paid once.
 
 ## Requirements
 macOS 26 or later, on a Mac with Apple silicon or an Intel processor.
@@ -72,7 +72,7 @@ Yes. Inkhaul draws each handwritten page with its ink, and the page arrives in A
 Yes. Inkhaul imports into Apple Notes on the Mac. If Notes uses iCloud, the notes sync to your iPhone.
 
 **Does Inkhaul keep my folders?**
-Yes. Each folder of notes becomes its own folder in Apple Notes.
+Yes. Each folder of .sdocx files becomes its own folder in Apple Notes. To keep Samsung Notes folders apart, share each one into its own Google Drive folder.
 
 **Can I try Inkhaul before I pay?**
 Yes. Reading and previewing notes is free, and so is importing the first 10.
