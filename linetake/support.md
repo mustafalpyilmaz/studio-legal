@@ -14,7 +14,7 @@ Choose Linetake > Unlock Pro…, then click Restore Purchase. You can also open 
 Open System Settings > Privacy & Security > Microphone and turn on Linetake. The message in the session window clears by itself.
 
 **Which script files does Linetake open?**
-CSV, TSV and TXT files, the first sheet of an Excel file, and the first table of a Word file. Each row is one line. Save a Numbers file or a Google Sheet as CSV or Excel first.
+CSV, TSV and TXT files, the first sheet of an Excel file, and the first table of a Word file. Linetake reads the header row as column names and skips rows with no line text. Save a Numbers file or a Google Sheet as CSV or Excel first.
 
 **Where are my takes?**
 In the folder you chose when you set up the script. File > Show Folder in Finder opens it. With Pro, older takes sit in its "Other takes" folder.
