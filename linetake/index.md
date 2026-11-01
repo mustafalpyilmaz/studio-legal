@@ -1,7 +1,7 @@
 ---
 description: "Linetake is a voice over recorder for Mac that records a script line by line, one named WAV per line, for voice actors."
 ---
-# Linetake
+# Linetake: voice over recorder for Mac
 
 Linetake is a voice over recorder for Mac that records a script line by line, one named WAV per line, for voice actors.
 
@@ -35,7 +35,7 @@ Linetake is not made by or affiliated with Microsoft or Google.
 - It does not edit audio beyond the silence trim: no gain, noise removal or normalizing.
 - It writes mono WAV files only.
 - It does not open .xls, .doc or Pages files.
-- It has no account, no tracking and no subscription.
+- It needs no account and has no tracking.
 
 ## Compared with
 - Adobe Audition, $22.99 a month: batch tools add prefixes, suffixes and numbers, but cannot name tracks from a list.
@@ -43,7 +43,7 @@ Linetake is not made by or affiliated with Microsoft or Google.
 - Audacity, free: exports one file per label, but you place and type every label.
 - A Better Finder Rename, $29.95: renames files from a spreadsheet, but does not record or match takes to lines.
 - voXover and Word2WAV: script recorders for voice actors that are no longer kept up to date.
-- Linetake, free for 20 lines or $4.99 once: records each line and names its file from the script.
+- Linetake, free for the first 20 lines of each script or $4.99 once: records each line and names its file from the script.
 
 ## Requirements
 macOS 26 or later, on Apple silicon or Intel.
@@ -55,8 +55,8 @@ Yes. Linetake builds each file name from the script's columns, such as ID and Ch
 **Can I record each script line as a separate file?**
 Yes. In Linetake, each take saves as its own WAV, named for its line.
 
-**Can Linetake split one long recording into separate files?**
-No. Linetake records each line as its own take. Splitting a long take is not part of this version.
+**Can I get separate files without splitting one long recording?**
+Yes. Linetake records each line as its own take, so each WAV is already cut and named. It does not split a recording made in another app.
 
 **Can I keep several takes of a line?**
 Yes, with Linetake Pro. Each replaced take stays in an "Other takes" folder, and Deliver picks the one that carries the line's name.
