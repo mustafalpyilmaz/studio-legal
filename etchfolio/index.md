@@ -10,7 +10,7 @@ In Finder on a Mac, every LightBurn and DXF file has the same plain icon. To fin
 ## What it does
 - Thumbnails of the LightBurn (.lbrn, .lbrn2), SVG, DXF, PDF and AI files in the folders you add, subfolders included. Free.
 - A Kind filter, sorting by date or name, and three card sizes. Free.
-- A large preview of any design, with the layer names and modes of each LightBurn file. Free.
+- A large preview when you press Space on a card. For a LightBurn file, it lists each layer's name and mode. Free.
 - A right-click menu that opens a design in LightBurn or its default app, or shows it in Finder. Free.
 - Finder icons and Quick Look previews for LightBurn and DXF files. Pro.
 - A PDF catalog of a folder, with 12 designs on each US Letter or A4 page. Pro.
@@ -19,7 +19,7 @@ In Finder on a Mac, every LightBurn and DXF file has the same plain icon. To fin
 Etchfolio Pro is a one-time purchase of $2.99 in the US.
 
 ## Works with
-- LightBurn files (.lbrn and .lbrn2). Etchfolio shows the preview image LightBurn saves in each file.
+- LightBurn files (.lbrn and .lbrn2). Each thumbnail is the picture LightBurn stores inside the file.
 - SVG, PDF and AI files. macOS draws these, and a PDF or AI file shows only page 1.
 - DXF files. Etchfolio draws their lines, arcs, circles, ellipses, polylines, splines and blocks itself.
 - Folders on external drives. Etchfolio lists them again when you plug the drive back in.
@@ -44,7 +44,7 @@ Yes. Etchfolio Pro adds Finder icons and Quick Look previews for .lbrn and .lbrn
 Yes. Etchfolio shows every LightBurn file in a folder as a thumbnail, for free.
 
 **Does Etchfolio show the speed and power of each layer?**
-Yes. With Pro, the large preview shows the speed, power and passes saved in each LightBurn layer.
+Yes. With Pro, the large preview lists them under each layer's name, with its pass count. View > Speed Units picks mm/s, mm/min, in/s or in/min.
 
 **Can I print a catalog of my designs?**
 Yes. With Pro, Etchfolio saves any folder as a PDF catalog with 12 designs per page.
