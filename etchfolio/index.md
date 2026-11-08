@@ -24,7 +24,7 @@ Etchfolio Pro is a one-time purchase of $2.99 in the US.
 - DXF files. Etchfolio draws their lines, arcs, circles, ellipses, polylines, splines and blocks itself.
 - Folders on external drives. Etchfolio lists them again when you plug the drive back in.
 
-Etchfolio is not made by or affiliated with LightBurn Software.
+LightBurn Software does not make Etchfolio and has no affiliation with it.
 
 ## What it does not do
 - It does not edit or save design files. It only reads them.
@@ -41,7 +41,7 @@ macOS 26 or later.
 Yes. Etchfolio Pro adds Finder icons and Quick Look previews for .lbrn and .lbrn2 files.
 
 **Can I browse a folder of LightBurn files visually on a Mac?**
-Yes. Etchfolio shows every LightBurn file in a folder as a thumbnail, for free.
+Yes, for free. Etchfolio lists the LightBurn files in a folder and its subfolders as a grid of thumbnails.
 
 **Does Etchfolio show the speed and power of each layer?**
 Yes. With Pro, the large preview lists them under each layer's name, with its pass count. View > Speed Units picks mm/s, mm/min, in/s or in/min.
