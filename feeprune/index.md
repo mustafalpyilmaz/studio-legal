@@ -1,7 +1,7 @@
 ---
 description: "Feeprune is a Mac app that shows each listing's profit after its ad fee, for eBay sellers who run Promoted Listings."
 ---
-# Feeprune
+# Feeprune: eBay Promoted Listings ad fee audit for Mac
 
 Feeprune is a Mac app that shows each listing's profit after its ad fee, for eBay sellers who run Promoted Listings.
 
@@ -54,8 +54,8 @@ Yes. Feeprune flags each listing whose ad fee took more than half of its profit 
 **Can Feeprune judge an ad fee without knowing which click led to the sale?**
 Yes. eBay's reports do not say which click led to a sale. Feeprune judges each listing by what it kept after the ad fee eBay charged on it.
 
-**Does Feeprune need my eBay password or API access?**
-No. Feeprune reads the Transaction report CSV that you download from Seller Hub. It has no network access.
+**Can Feeprune work without my eBay password or API access?**
+Yes. Feeprune reads the Transaction report CSV that you download from Seller Hub. It has no network access.
 
 **Can Feeprune tell me what ad rate to set?**
 Yes, with Pro. Feeprune shows the highest rate at which the ad fee stays within half of the profit before the ad fee.
@@ -68,5 +68,7 @@ Yes, for one month at a time. Feeprune Pro is a one-time purchase of $4.99 in th
 
 ## Get it
 Feeprune is coming to the Mac App Store. The download link goes here at launch.
+
+[Email this link to my Mac](mailto:?subject=Feeprune%20for%20Mac&body=https://mustafalpyilmaz.github.io/studio-legal/feeprune/)
 
 [Support](https://mustafalpyilmaz.github.io/studio-legal/feeprune/support.html) · [Privacy Policy](https://mustafalpyilmaz.github.io/studio-legal/feeprune/privacy-policy.html)
